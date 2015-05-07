@@ -7,6 +7,8 @@ __Attributes__
 - [data-class-toggle] the class to be toggled to the element
 - [data-class-toggle-target] add on click event to this element instead of itself
 - [data-class-toggle-scrollto] set to true in order to scroll to this element when the toggle class is applied
+- [data-class-toggle-single] only one element will have this class
+- [data-class-toggle-event] the event that will trigger the toggling
 
 __Examples__
 ([jsfiddle](http://jsfiddle.net/liberat0r/xo686jy9/))
